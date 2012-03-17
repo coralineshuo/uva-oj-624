@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1331863586 source:e:\oj\codeblock\uva624\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+
